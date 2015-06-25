@@ -27,6 +27,16 @@ a.fa:hover {
   text-decoration: none;
 }
 
+a.icon {
+  margin : 5px;
+}
+
+a.icon:focus,
+a.icon:hover {
+  color: #337AB7;
+  text-decoration: none;
+}
+
 hr {
     max-width: 50px;
     border-color: #337AB7;
