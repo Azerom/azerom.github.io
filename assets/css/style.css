@@ -141,6 +141,7 @@ ul#socials.nav {
     float: none !important;
     width: 100%;
     padding-left : 12%;
+    height: 50px;
 }
 ul#socials.nav > li > a {
     color : #FFF;
